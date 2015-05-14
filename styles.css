@@ -242,6 +242,9 @@ label {
 #bccontent {
     padding:0.5em;
 }
+#bccontent:before {
+    opacity: 0.3;
+}
 #bccontenttop, #bccontentright, #bccontentleft, #bccontentright #mc_embed_signup {
     font-size:14px;
 }
